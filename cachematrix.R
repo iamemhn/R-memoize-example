@@ -2,6 +2,7 @@
 # Ernesto Hernández-Novich <emhn@usb.ve>
 # A cute exercise on simulating objects using closures,
 # including memoizing techniques :)
+# Wed, 23 Apr 2014 19:15:48 -0430
 
 # NOTE: I've written the solution to specification by mimicking the
 # example given for vectors. However, I'd rather have the "special
