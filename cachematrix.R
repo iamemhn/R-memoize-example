@@ -58,7 +58,7 @@ cacheSolve <- function(x, ...) {
   inverse
 }
 
-# smarterMatrix -- a matrix that compute it's inverse "on demand"
+# smarterMatrix -- a matrix that compute its inverse "on demand"
 # It fuses makeCacheMatrix and cacheSolve into a single function
 # that creates a list containing the matrix, the cached inverse, a
 # getter and setter for the matrix, and *only* a getter for the cache.
